@@ -11,6 +11,7 @@ DEFAULTS = {
     'IsHide': False,
     'IsTestingExclusive': False,
     'ApplicableVersion': 'any',
+    'DalamudApiLevel': '11'
 }
 
 DUPLICATES = {
