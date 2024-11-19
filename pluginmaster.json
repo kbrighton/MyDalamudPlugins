@@ -7,7 +7,7 @@
         "AssemblyVersion": "9.30.1",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "DownloadLinkInstall": "https://github.com/kbrighton/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
