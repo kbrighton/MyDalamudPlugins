@@ -14,14 +14,14 @@
         "DownloadLinkTesting": "https://github.com/kbrighton/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kbrighton/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1732123684"
+        "LastUpdated": "1733204159"
     },
     {
         "Author": "VariableVixen, kbrighton",
         "Name": "XivEsp KB",
         "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
         "InternalName": "XivEsp",
-        "AssemblyVersion": "1.6.1.0",
+        "AssemblyVersion": "1.6.2.0",
         "RepoUrl": "https://github.com/kbrighton/XivEsp",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
@@ -31,6 +31,6 @@
         "DownloadLinkTesting": "https://github.com/kbrighton/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kbrighton/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1732123684"
+        "LastUpdated": "1733204159"
     }
 ]
